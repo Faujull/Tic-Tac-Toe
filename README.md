@@ -12,20 +12,23 @@ Welcome to a fun and simple **Tic Tac Toe** game built using C++. This is a clas
 - 🧼 Clean board display in terminal
 
 ---
-🛠️ Requirements
-C++ compiler (like g++)
+## 🛠️ Requirements
 
-Terminal or command prompt
+- ✅ C++ compiler (like `g++`)
+- 💻 Terminal or Command Prompt
 
-🧠 Future Plans
-🔁 Add "Play Again" option
+---
 
-🧮 Add score tracking for multiple rounds
+## 🧠 Future Plans
 
-🖼️ Add GUI using libraries like SFML, Qt, or SDL
+- 🔁 Add "Play Again" option  
+- 🧮 Add score tracking for multiple rounds  
+- 🖼️ Build a GUI version using SFML, Qt, or SDL  
+- 🤖 Add a Player vs Computer mode with basic AI  
 
-🤖 Add Player vs Computer (with AI)
+---
 
-👨‍💻 Author
-Faujul Kabir
-GitHub: @Faujull
+## 👨‍💻 Author
+
+**Faujul Kabir**  
+🔗 GitHub: [@Faujull](https://github.com/Faujull)
