@@ -12,6 +12,3 @@ Welcome to a fun and simple **Tic Tac Toe** game built using C++. This is a clas
 - 🧼 Clean board display in terminal
 
 ---
-
-## 📸 Preview
-
